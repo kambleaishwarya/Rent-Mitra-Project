@@ -48,7 +48,7 @@ Follow these instructions to get a copy of the project up and running on your lo
    npm run dev
    ```
 
-4. Open `http://localhost:5173` in your browser to view the application.
+4. Open `http://localhost:5174` in your browser to view the application.
 
 ## 📁 Project Structure
 
